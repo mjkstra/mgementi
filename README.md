@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mgementi
-- 👀 I’m interested in Computer Science, Maths, Physics and science in general !
-- 🌱 I’m currently studying CS
-- 📫 How to reach me : use my e-mail address: gementi.michele@gmail.com
+- 👋 Hi, I’m @mjkstra
+- 👀 I’m interested in Computer Science ⌨️ , Maths ➕ , Physics and Mechanical Engineering ⚙️ !
+- 📖 I’m currently studying Computer Science
+- 📫 Reach me by mail: gementi.michele@gmail.com
 
 <!---
 mgementi/mgementi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
